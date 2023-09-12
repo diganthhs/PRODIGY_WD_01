@@ -1,1 +1,3 @@
-# PRODIGY_WD_01
+# Responsive Landing Page using HTML,CSS and JavaScript
+
+Task 1 - Responsive Landing Page
